@@ -1,8 +1,8 @@
 
-<h1 align="center">Git:iNKer Link Shortener</h1>
+<h1 align="center">Link Shortener</h1>
 
 > [!TIP]
-> `Git:iNKer` is a premium, high-performance, open-source link management platform built for modern developers. Track analytics, manage redirects, and brand your short links effortlessly.
+> `Link Shortener` is a premium, high-performance, open-source link management platform built for modern developers. Track analytics, manage redirects, and brand your short links effortlessly.
 
 ---
 
